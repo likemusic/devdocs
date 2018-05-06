@@ -109,7 +109,7 @@ If description or short description happens to be the first one after DocBlock o
 
 
 {% highlight xml %}
-
+&lt;!--  
 /**
  * Short description...
  *
@@ -117,8 +117,8 @@ If description or short description happens to be the first one after DocBlock o
  * Broken down into several lines
  *
  * License notice...
- */
--->
+ */  
+--&gt;
 {% endhighlight %}
 
 ### License Notice and Copyright
